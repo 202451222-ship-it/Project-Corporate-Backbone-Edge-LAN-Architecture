@@ -1,7 +1,7 @@
 # Project-Corporate-Backbone-Edge-LAN-Architecture
 Repositori ini berisi simulasi jaringan "Corporate Backbone &amp; Edge LAN Architecture" menggunakan Cisco Packet Tracer. Proyek ini mencakup desain WAN redundan dengan topologi ring, segmentasi akses LAN, integrasi server terpusat, serta ekosistem jaringan hybrid (kabel dan nirkabel) untuk skala enterprise.
 
-Deskripsi Proyek
+Deskripsi 
 Proyek ini merupakan simulasi arsitektur jaringan Corporate Backbone & Edge LAN Architecture yang dirancang untuk kebutuhan infrastruktur multi-site enterprise. Simulasi ini dibangun menggunakan Cisco Packet Tracer untuk mendemonstrasikan integrasi yang andal antara jaringan inti terpusat dan jaringan akses area lokal.
 
 Fitur Utama Arsitektur
